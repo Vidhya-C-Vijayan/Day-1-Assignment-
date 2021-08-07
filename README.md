@@ -17,7 +17,7 @@ while(b <= n)
     cout<<"Hi";
 
 }
-#output
+#output:
 T(n)=0(n)  #linear time complexity 
 
 Question 2
@@ -40,7 +40,7 @@ void fun(int n)
     }
 
 }
-#output
+#output:
 321123
 
 
